@@ -1,3 +1,4 @@
-<?php declare(strict_types=1);
+<?php
 echo 'Hello World';
 
+echo "I'm getting gitty!";
